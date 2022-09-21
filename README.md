@@ -1,2 +1,2 @@
 # Test2Dam
-Repositorio de prueba 2DAM
+Creación de repositorio de prueba curso 2DAM 22-23
